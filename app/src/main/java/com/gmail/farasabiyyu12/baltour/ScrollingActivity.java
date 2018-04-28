@@ -2,6 +2,8 @@ package com.gmail.farasabiyyu12.baltour;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.design.widget.AppBarLayout;
+import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
@@ -31,7 +33,8 @@ public class ScrollingActivity extends AppCompatActivity {
         String strjudul = intent.getStringExtra("judul");
         int strgambar = intent.getIntExtra("gambar", 0);
         //TODO Setting Toolbar
-        toolbar.setTitle(strjudul);
+        CollapsingToolbarLayout collapsingToolbarLayout = findViewById(R.id.toolbar_layout);
+        collapsingToolbarLayout.setTitle(strjudul);
 
         try {
             Glide.with(this).load(strgambar).into((ImageView) findViewById(R.id.gambar));

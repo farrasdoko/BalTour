@@ -31,9 +31,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     String[] judul = {"Tanah Lot", "Pantai Kuta", "Pantai Sanur", "Beachwalk", "Monumen Bajra Sandhi",
-            "Museum Bali",
-//            "Pantai Double Six", "Pura Besakih", "Pura Tirta Empul", "Gunung Agung"
-    };
+            "Museum Bali", "Pantai Double Six", "Pura Besakih", "Pura Tirta Empul", "Gunung Agung" };
     int[] gambar = {
             R.drawable.tanahlot,
             R.drawable.pantaikuta,
@@ -41,10 +39,10 @@ public class MainActivity extends AppCompatActivity {
             R.drawable.beachwalk,
             R.drawable.monumenbajrasandhi,
             R.drawable.museumbali,
-//            R.drawable.pantaidoublesix,
-//            R.drawable.purabesakih,
-//            R.drawable.pura_tirta_empul,
-//            R.drawable.gunung_agung
+            R.drawable.pantaidoublesix,
+            R.drawable.purabesakih,
+            R.drawable.pura_tirta_empul,
+            R.drawable.gunung_agung
 
 
     };
