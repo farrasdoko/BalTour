@@ -1,12 +1,14 @@
 # BalTour
 
 **BalTour** is an android app that explain us about *Bali Tourism Place* . I upload this open source project, so you can clone it, download, etc.
+
 ![Banner](/app/screenshot/screenshot3.png)
 
 It has now(v.1.0).
 
 ## Screenshot
 This the screenshot of ***BalTour App***
+
 ![Screenshot Baltour](/app/screenshot/screenshot1.png) ![Screenshot Baltour](/app/screenshot/screenshot2.png)
 
 ## Gradle
@@ -48,4 +50,5 @@ apply plugin: 'com.android.application'
 ## Contact
 #### Farras Doko
 * instagram: [farrasdoko](https://www.instagram.com/farrasdoko/)
+* Google+: [Farras Doko](https://plus.google.com/+FarrasDoko)
 * email: farras.abiyyu.doko@gmail.com
