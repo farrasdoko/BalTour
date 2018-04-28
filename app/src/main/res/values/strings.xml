@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">BalTour</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="tanah_lot">
+        <b>Tanah Lot \n\n</b>
+
+        <p>Destinasi pantai di Bali yang pertama adalah Tanah Lot.Tempat wisata ini terletak di Desa Beraban,
+        Tabanan dan hanya terpisah sekitar 24 km dari Pantai Kuta. Untuk rute tercepat yang bisa menghindari macet,
+        Anda bisa berkendara melalui Jalan By Pass Tanah Lot. Keunikan tempat wisata yang satu ini adalah adanya pura
+        yang berada di atas batu karang yang menjorok ke tengah laut. Selain itu, di dalam gua yang terletak di bawah
+        tebing terdapat ular yang dikeramatkan. Legenda yang diyakini masyarakat lokal adalah bahwa ular tersebut merupakan
+            jelmaan selendang Dang Hyang Niratha, keturunan Brahmana pada abad XVI.</p>
+
+        <p>Untuk menikmati suasana dan pemandangan di Tanah Lot, wisatawan lokal usia dewasa dikenakan biaya sebesar
+            Rp30.000,00 per orang dan Rp15.000,00 untuk wisatawan lokal usia anak-anak. Sementara itu, wisatawan
+            asing dikenakan biaya dua kali lipat lebih tinggi, yakni Rp30.000,00 untuk anak-anak dan Rp60.000,00 untuk dewasa.
+            Anda dapat mengunjungi Tanah Lot mulai pukul 07.00 sampai 19.00 WITA. Selain menyaksikan langsung pura Tanah Lot
+            yang terkenal dan ular suci di dalam gua, wisatawan juga banyak yang mendatangi pantai ini untuk menikmati matahari
+            terbenam. Tidak sedikit wisatawan yang sudah mempersiapkan kamera untuk mengabadikan detik-detik tergelincirnya
+            matahari di ufuk barat dari tebing. Bahkan tidak sedikit pula pasangan yang menjadikan lokasi ini sebagai latar
+            foto prewedding.</p>
+    </string>
+    <string name="pantai_kuta">
+        <b>Pantai Kuta \n\n</b>
+        <p>Kemahsyuran tempat wisata bali yang satu ini tidak perlu diragukan. Tidak hanya turis domestik, turis internasional
+            pun tidak asing dengan Pantai Kuta. Letaknya hanya berjarak 4,5 km dari Bandara Ngurah Rai dan 9 km dari Denpasar.
+            Karena kawasan ini ramai, jadi jika Anda tidak bersama rombongan besar, sebaiknya Anda menggunakan sepeda motor atau
+            berjalan kaki jika memungkinkan untuk mencapai tempat ini. Pantai ini terbuka untuk umum dan tidak ada biaya tiket masuk.
+            Anda pun bebas mendatangi Pantai Kuta pukul berapa saja. Anda dapat berselancar, berjemur, bermain voli atau sepak bola
+            pantai, atau melakukan kegiatan lainnya di sini.</p>
+    </string>
+    <string name="pantai_sanur">
+        <b>Pantai Sanur \n\n</b>
+        <p>Selain Tanah Lot dan Kuta, pantai di Pulau Seribu Pura lainnya yang terkenal adalah Pantai Sanur. Lokasinya berada di sebelah
+            timur Denpasar, sehingga banyak orang yang mengejar momen matahari terbit di pantai ini. Namun karena pantai ini terbuka
+            selama 24 jam, Anda tidak harus datang saat subuh atau pagi hari saja. Sekadar bersantai di bibir pantai pada sore hari dengan
+            lumpia kuah kacang yang lezat pun, bukan ide buruk. Anda tidak akan dikenakan biaya apa pun untuk masuk ke Pantai Sanur selain
+            biaya parkir. Untuk sepeda motor dan mobil masing-masing Rp5.000,00 dan Rp10.000,00. Jarak Pantai Sanur ke Bandara Ngurah Rai
+            tidak terlalu jauh, hanya sekitar 16 km. Dari bandara, Anda dapat melalui jalan tol dengan arah ke Benoa, dilanjutkan Jalan By
+            Pass Ngurah Rai. Setelah itu masuk ke Jalan Bet Ngadang, lalu Jalan Danau Tamblingan.</p>
+    </string>
+    <string name="beachwalk">
+        <b>Beachwalk \n\n</b>
+        <p>Tidak selamanya setiap wisatawan yang datang mengunjungi Bali terpuaskan hanya dengan kemolekan panorama alamnya. Terutama
+            bagi wisatawan yang gemar berbelanja, Anda tentu akan menyempatkan diri mengunjungi pusat perbelanjaan yang ada di kawasan wisata
+            tujuan. \n\n</p>
+        <p>Di Bali, Beachwalk adalah tempat berbelanja yang dapat memanjakan dan memuaskan kesenangan Anda. Mal dengan standar internasional
+            ini memiliki desain yang benar-benar indah. Sekalipun Anda tidak berniat untuk berbelanja, maka sekadar berjalan-jalan di mal ini
+            pun tidak akan mengecewakan. Anda juga bisa menikmati suasana di kafe atau restoran yang menghadap langsung ke jalan dan Pantai Kuta. \n\n</p>
+        <p>Mulai pukul 10.00-00.00 WITA, Anda dapat menjelajahi mal ini. Sebagian besar barang yang dipasarkan pun merupakan barang bermerek mahal.
+            Namun tenang, Anda tentu tidak harus mengeluarkan uang di pusat perbelanjaan yang terletak di Jalan Pantai Kuta ini. Tidak sedikit juga
+            pengunjung yang datang hanya untuk sekadar window shopping dan berfoto di sini.</p>
+    </string>
+    <string name="bajra_sandhi">
+        <b>Monumen Bajra Sandhi \n\n</b>
+        <p>Jika monumen Bali didirikan untuk mengenang korban tragedi, maka Monumen Bajra Sandhi dibangun untuk mengenang perjuangan rakyat Bali. Monumen ini
+            berada di depan Kantor Gubenur Bali dan Gedung DPRD Provinsi Bali, tepatnya di Lapangan Niti Mandala Renon. Di tempat inilah Perang Puputan terjadi. \n\n </p>
+        <p>Museum yang menceritakan perjuangan rakyat Bali sejak masa prasejarah hingga merebut kemerdekaan ada di lantai dua monumen. Dalam menceritakan kisah
+            perjuangan rakyat Bali, pengelola menggunakan konsep diorama sejumlah 33. Sementara itu di lantai tiga, Anda dapat menikmati pemandangan Denpasar dan
+            sekitarnya melalui kaca, seperti di Monas. \n\n</p>
+        <p>Tempat wisata Monumen Bajra Sandhi buka pada hari Senin-Jumat, pukul 08.00-17.00 WITA. Anda cukup membayar Rp5.000,00 untuk mengunjungi monumen ini. Selain
+            museum, monumen ini juga memiliki fasilitas lain seperti perpustakaan, kolam ikan, dan pameran kerajinan tangan.</p>
+    </string>
+    <string name="museum_bali">
+        <b>Museum Bali</b>
+        <p>Museum yang terletak di Denpasar ini berupa bangunan gedung tua, tepatnya bersebelahan dengan Pura Agung Jagat Natha. Dari bandara, Anda ikuti saja jalan menuju
+            pusat kota dengan waktu tempuh sekitar 45 menit. Karena memasuki wilayah yang cukup padat kendaraan, kendaraan roda dua adalah pilihan terbaik. Museum hanya buka
+            hari Minggu sampai Jumat. Untuk hari Minggu-Kamis, Anda dapat berkunjung pada pukul 08.00-15.00 WITA, dan untuk hari Jumat pada pukul 08.00-12.30 WITA. Museum
+            tidak buka pada hari Sabtu dan tanggal merah. Harga tiket masuknya pun sangat murah, yakni Rp5.000,00. Namun jika Anda ingin menggunakan tempat ini sebagai lokasi
+            prewedding, Anda harus membayar Rp150.000,00. \n\n</p>
+        <p>Museum ini bukan museum seni, melainan museum sejarah. Koleksi Museum Bali terdiri atas peralatan saat zaman prasejarah, peralatan upacara keagamaan dan adat, dan
+            perkembangan seni dan budaa masyarakat Bali dari zaman ke zaman. Melalui museum ini, Anda akan dapat lebih mengenal budaya Bali pada setiap zaman.</p>
+    </string>
+    <string name="pantai_double_six">
+        <b>Pantai Double Six</b>
+        <p>Nama pantai ini diambil dari sebuah nama diskotek bernama serupa yang lokasinya berada di seberang pantai. Kegiatan yang dapat dilakukan di pantai ini sama seperti
+            kegiatan di pantai lainnya. Hanya saja yang menarik dan menjadikan Pantai Double Six menjadi sedikit berbeda dari lainnya adalah sofa warna-warni di bawah payung
+            yang sama warna-warninya. Tidak sedikit anak muda yang menghabiskan waktu mereka di sini untuk sekadar menikmati matahari tenggelam.</p>
+    </string>
+    <string name="pura_besakih">
+        <b>Pura Besaikh</b>
+        <p>Pura Besakih merupakan pura terbesar umat Hindu yang ada di Bali. Pura ini merupakan sebuah kompleks pura, terletak di Desa Besakih, Kecamatan Rendang, Kabupaten
+            Karangasem. Kompleks ini terdiri atas satu pura pusat, yakni Pura Penataran Agung Besakih, dan 18 pura pendamping yang terdiri atas satu Pura Basukian dan 17 pura
+            lainnya. Secara umum, Pura Besakih menjadi pusat kegiatan seluruh pura yang ada di tanah Bali. \n\n</p>
+        <p>Berdiri megah di kaki Gunung Agung, keberadaan Pura Besakih sendiri tidak lepas dari keterkaitannya dengan gunung tertinggi di Bali ini. Gunung Agung dipercaya oleh
+            masyarakat sebagai tempat bersemayamnya arwah para leluhur dan para dewa utusan Sang Hyang Widhi. Untuk itulah, masyarakat mendirikan sebuah bangunan suci tepat di
+            kaki Gunung Agung sebagai tempat memuja para dewa. Pura ini telah ada sejak tahun 1007 Masehi dan tercatat sebagai warisan budaya UNESCO pada tahun 1995. \n\n</p>
+        <p>Pastikan Anda berpakaian sopan saat mengunjungi tempat suci ini. Perempuan yang sedang haid tidak diperkenankan untuk masuk. Pura ini terbuka untuk umum setiap hari
+            pukul 09.00-17.00 WITA. Pengunjung hanya dikenakan biaya Rp15.000,00 untuk tiket masuk dan Rp2.000,00-Rp3.000,00 untuk parkir. \n\n</p>
+    </string>
+    <string name="pura_tirta_empul">
+        <b>Pura Tirta Empul</b>
+        <p>Yang menjadi daya tarik Pura Tirta Empul adalah adanya pemandian yang dianggap suci bagi umat Hindu. Kolam persegi panjang dengan 30 pancuran yang berjejer dari timur
+            ke barat inilah yang banyak menarik wisatawan. Anda boleh turut masuk ke dalam kolam dan ikut menyucikan diri di sini, namun dengan syarat Anda harus mengenakan kamen.
+            Kamen adalah sebutan untuk kain yang diikatkan di pinggang. \n\n</p>
+        <p>Pura ini dibuka setiap hari mulai pukul 08.00-17.00 WITA. Pengunjung dikenai biaya tiket masuk sebesar Rp15.000,00 untuk dewasa dan Rp7.500,00 untuk anak-anak. Selain
+            kolam dengan mata air yang dianggap suci tersebut, daya tarik lainnya dari pura ini adalah adanya Istana Tampak Siring yang tak lain adalah istana Presiden Indonesia. \n\n</p>
+        <p>Pura ini terletak di Desa Manukaya, Kecamatan Tampaksiring, Kabupaten Gianyar. Perjalanan dari Denpasar menuju lokasi ini kurang lebih memakan waktu satu jam. Anda
+            tidak perlu takut tersesat karena ada banyak papan penunjuk jalan yang mengarahkan Anda menuju ke sana.</p>
+    </string>
+    <string name="gunung_agung">
+        <b>Gunung Agung</b>
+        <p>Puncak tertinggi Bali ada di puncak Gunung Agung, gunung yang sangat disucikan umat Hindu Bali. Menurut kepercayaan masyarakat, Gunung Agung merupakan tempat para dewa
+            yang senantiasa mengawasi manusia. Dan di lereng gunung inilah pura terbesar di Bali, Pura Besakih, berada. \n\n</p>
+        <p>Anda tidak dapat mendaki gunung ini tanpa pemandu. Alasannya tidak lain adalah untuk menekan angka kecelakaan dan menjaga kesucian Gunung Agung. Biaya jasa untuk seorang
+            pemandu sekitar Rp300.000,00. \n\n</p>
+        <p>Ada tiga jalur pendakian yang dapat Anda pilih dan masing-masing jalur menyuguhkan suasana dan pemandangan yang berbeda. Pertama melalui jalur selatan, melewati Pura Pasar
+            Agung, Karangasem. Kedua melalui kawasan tenggara, Kecamatan Bebandem. Ketiga, melalui jalur yang cukup populer, yakni Pura Besakih di wilayah barat daya.</p>
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
